@@ -45,7 +45,7 @@ outage, applying similar network and spatial methods to energy infrastructure.
 | Dataset | Source | Year |
 |---|---|---|
 | [Median Household Income (Table S1901)](https://data.census.gov/table/ACSST5Y2024.S1901) | [U.S. Census Bureau, ACS 5-Year Estimates](https://data.census.gov/) | 2024 |
-| [Census Tract Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) | [U.S. Census Bureau, TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) | 2024 |
+| [Census Tract Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2024.html#list-tab-790442341) | [U.S. Census Bureau, TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) | 2024 |
 | [Grocery Store Locations](https://overpass-turbo.eu/) | [OpenStreetMap via Overpass Turbo](https://overpass-turbo.eu/) | June 2026 |
 
 ---
